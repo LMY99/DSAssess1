@@ -1,0 +1,5 @@
+# Readme
+
+The graph presents the death toll of the deadliest natural disaster for each year from 1900 to 2023. The data originates from Wikipedia(Source: https://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll)
+If the data source has only an ranged estimate of death toll, then the midpoint of that range is used. If the data source contains only a conservative estimate, then that estimate is used.
+Different colors represent different types of disasters. From the graph, we can see that while in most years, the deadliest natural disasters are earthquakes or tropical cyclones, overall, the disaster with the heaviest death toll since 1900 is a flood with over 2 million deaths. However, we can also see that in the majority of years, even the highest death toll is below 10000, and only a small number of years have maximum single-disaster death toll exceeding 100000.
